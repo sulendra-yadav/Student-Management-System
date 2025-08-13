@@ -31,8 +31,6 @@ choose option:
 ---
 
 
----
-
 ## 🛠️ Technologies Used
 - **Java** (JDK 8+)
 - **JDBC** (Java Database Connectivity)
